@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П4.1 З8 ShapeTest" type="Application" factoryName="Application" folderName="Практика 4.1">
+    <option name="MAIN_CLASS_NAME" value="practice4_1.task8.ShapeTest" />
+    <module name="blok1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

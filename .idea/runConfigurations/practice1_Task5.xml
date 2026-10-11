@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П1 З5 Task5" type="Application" factoryName="Application" folderName="Практика 1">
+    <option name="MAIN_CLASS_NAME" value="practice1.Task5" />
+    <module name="blok1" />
+    <option name="PROGRAM_PARAMETERS" value="hello MIREA 2026 algoritmy" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

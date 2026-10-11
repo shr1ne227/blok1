@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П1 З4 Task4" type="Application" factoryName="Application" folderName="Практика 1">
+    <option name="MAIN_CLASS_NAME" value="practice1.Task4" />
+    <module name="blok1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

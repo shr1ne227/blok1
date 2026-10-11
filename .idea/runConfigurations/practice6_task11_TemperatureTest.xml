@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П6 З11 TemperatureTest" type="Application" factoryName="Application" folderName="Практика 6">
+    <option name="MAIN_CLASS_NAME" value="practice6.task11.TemperatureTest" />
+    <module name="blok1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

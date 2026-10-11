@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П2 З9 Poker" type="Application" factoryName="Application" folderName="Практика 2">
+    <option name="MAIN_CLASS_NAME" value="practice2.task9.Poker" />
+    <module name="blok1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

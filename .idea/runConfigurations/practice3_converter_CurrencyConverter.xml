@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П3 Конвертер CurrencyConverter" type="Application" factoryName="Application" folderName="Практика 3">
+    <option name="MAIN_CLASS_NAME" value="practice3.converter.CurrencyConverter" />
+    <module name="blok1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
